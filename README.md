@@ -1,4 +1,4 @@
-# FLASHING-OF-LEDS-WITH-LPC-1768
+<img width="638" height="462" alt="image" src="https://github.com/user-attachments/assets/2fbd7928-6de1-4995-8d04-1f405c99dbc7" /># FLASHING-OF-LEDS-WITH-LPC-1768
 
 # AIM: 
    To interface and toggle the led with ARM LPC 1768 microprocessor           
@@ -48,6 +48,7 @@ Delay.h, stdutils.h, gpioi.h
 
 # CIRCUIT DIAGRAM:
  
+<img width="752" height="332" alt="image" src="https://github.com/user-attachments/assets/b83b10bf-5292-42ec-9e2c-d4e92a5a778e" />
 
 # PROGRAM:
 ```
@@ -68,9 +69,8 @@ GPIO_PinWrite(LED,LOW);	// Make all the Port pin as low DELAY_ms(100);
 ```
  
 # Output:
+<img width="638" height="462" alt="image" src="https://github.com/user-attachments/assets/78c3a383-b926-414f-a879-6596fd22bd9e" />
 
-
-![Uploading image.png…]()
 
 # Result:
 Thus a LED is interfaced with ARM LPC1768 microprocessor and its blinking was verified successfully.
