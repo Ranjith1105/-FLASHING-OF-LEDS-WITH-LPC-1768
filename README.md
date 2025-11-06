@@ -1,4 +1,3 @@
-<img width="638" height="462" alt="image" src="https://github.com/user-attachments/assets/2fbd7928-6de1-4995-8d04-1f405c99dbc7" /># FLASHING-OF-LEDS-WITH-LPC-1768
 
 # AIM: 
    To interface and toggle the led with ARM LPC 1768 microprocessor           
