@@ -48,7 +48,7 @@ Delay.h, stdutils.h, gpioi.h
 
 # CIRCUIT DIAGRAM:
  
- 
+
 # PROGRAM:
 ```
 #include <lpc17xx.h>
